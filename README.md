@@ -2,4 +2,5 @@
 Here's my Sublime Text 3 settings, including the list of installed packages.
 
 Copy to `Packages/User/` to take effect.
+
 More Info: [How to Sync](https://packagecontrol.io/docs/syncing)
